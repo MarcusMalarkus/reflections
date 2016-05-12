@@ -1,1 +1,3 @@
-stagind directory is a waiting cell
+Just did a commit again
+Just did a commit again
+Branch is helpful when trying new features

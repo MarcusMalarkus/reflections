@@ -1,0 +1,2 @@
+When would you want to use a remote repo rather than keeping al your work local?
+Working with a team, or using multiple computers.
